@@ -17,6 +17,7 @@
         app:itemBackground="@color/teal_700"
         app:itemIconTint="@color/custom_color_bottom_nav"
         app:itemTextColor="#B2090909"
+
         />
 
 </RelativeLayout>
